@@ -1,5 +1,5 @@
 # FiveM Discord Bot
-## Velocity Networks
+## Aftermath Gameworks
 ### Status: in-service
 
 This is a basic python script that gets the status of all our servers.
